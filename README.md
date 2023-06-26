@@ -13,19 +13,17 @@
 
 ## Основные инструменты:
 
-* язык программирования Python3 и его библиотеки:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" width="40" height="40"/>&nbsp
 
-    + аналитические библиотеки [Pandas](https://pandas.pydata.org/), [Statsmodel](https://www.statsmodels.org/stable/index.html);
-
-    + библиотеки для выполнения научных и инженерных расчётов [NumPy](https://numpy.org/), [Math](https://docs.python.org/3/library/math.html), [SciPy](https://scipy.org/);
-
-    + библиотеки для визуализации данных [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [Plotly](https://plotly.com/python/);
-
-    + библиотека машинного обучения [Sklearn](https://www.sklearn.org/);
-    
-* среда программирования [Jupyter Notebook](https://jupyter.org/);
-
-* BI-системы [Tableau](https://www.tableau.com/)
 
 ### 💻 Пройденные курсы:
 
