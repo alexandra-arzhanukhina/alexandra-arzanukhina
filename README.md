@@ -8,6 +8,7 @@
 ⭐ Проекты можно найти здесь:
 1. [RFM_analysis_e-learning](https://github.com/alexandra-arzhanukhina/RFM_analysis_e-learning)
 2. [AB-test_e-learning](https://github.com/alexandra-arzhanukhina/AB-test_e-learning)
+3. [student_progress_monitoring](https://github.com/alexandra-arzhanukhina/student_progress_monitoring)
    
 (*раздел будет обновляться*).
 
