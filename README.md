@@ -7,8 +7,9 @@
 
 ⭐ Проекты можно найти здесь:
 1. [RFM_analysis_e-learning](https://github.com/alexandra-arzhanukhina/RFM_analysis_e-learning)
-2. [AB-test_e-learning](https://github.com/alexandra-arzhanukhina/AB-test_e-learning)
+2. [AB-test_e-learning_and_SQL](https://github.com/alexandra-arzhanukhina/AB-test_e-learning)
 3. [student_progress_monitoring](https://github.com/alexandra-arzhanukhina/student_progress_monitoring)
+4. [Tableau_project](https://github.com/alexandra-arzhanukhina/Tableau_project)
    
 (*раздел будет обновляться*).
 
@@ -32,8 +33,9 @@
 
 ### 💻 Пройденные курсы:
 
-| Курсы                                                           | Дата              |
+| Курсы                                                           | Даты              |
 | ----------------------------------------------------------------| :---------------: |
+| [Симулятор SQL](https://karpov.courses/simulator-sql)           | 06/2023 - 08/2023 |
 | [Аналитик данных](https://karpov.courses/analytics)             | 12/2022 - 06/2023 |
 | [Основы статистики](https://stepik.org/course/76/syllabus)      | 06/2022 - 07/2022 |
 | [Анализ данных в R](https://stepik.org/course/129/syllabus)     | 08/2022 - 09/2022 |
