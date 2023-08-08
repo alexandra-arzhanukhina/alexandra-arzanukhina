@@ -41,3 +41,5 @@
 | [Анализ данных в R](https://stepik.org/course/129/syllabus)     | 08/2022 - 09/2022 |
 
 ### :mailbox: Cвязаться со мной: [![Telegram Badge](https://img.shields.io/badge/-alexandra_arzhanukhina-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/alexandra_arzhanukhina) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexadanchuk@gmail.com)
+
+![](https://komarev.com/ghpvc/?username=alexandra-arzhanukhina)
