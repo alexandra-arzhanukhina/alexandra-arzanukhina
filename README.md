@@ -10,6 +10,7 @@
 2. [AB-test_e-learning_and_SQL](https://github.com/alexandra-arzhanukhina/AB-test_e-learning)
 3. [student_progress_monitoring](https://github.com/alexandra-arzhanukhina/student_progress_monitoring)
 4. [Tableau_project](https://github.com/alexandra-arzhanukhina/Tableau_project)
+5. [Power_BI_project ](https://github.com/alexandra-arzhanukhina/Power_BI_project)
    
 (*раздел будет обновляться*).
 
@@ -35,10 +36,10 @@
 
 | Курсы                                                           | Даты              |
 | ----------------------------------------------------------------| :---------------: |
-| [Симулятор SQL](https://karpov.courses/simulator-sql)           | 06/2023 - 08/2023 |
-| [Аналитик данных](https://karpov.courses/analytics)             | 12/2022 - 06/2023 |
-| [Основы статистики](https://stepik.org/course/76/syllabus)      | 06/2022 - 07/2022 |
-| [Анализ данных в R](https://stepik.org/course/129/syllabus)     | 08/2022 - 09/2022 |
+| [Симулятор SQL](https://lab.karpov.courses/certificate/13dc15e9-c432-4feb-9992-9a5a4211398a/)           | 06/2023 - 08/2023 |
+| [Аналитик данных](https://lab.karpov.courses/certificate/7323b92c-8bfa-4818-a0fa-0298684d3a48/)             | 12/2022 - 06/2023 |
+| [Основы статистики](https://stepik.org/cert/1573253)      | 06/2022 - 07/2022 |
+| [Анализ данных в R](https://stepik.org/cert/1760789)     | 08/2022 - 09/2022 |
 
 ### :mailbox: Cвязаться со мной: [![Telegram Badge](https://img.shields.io/badge/-alexandra_arzhanukhina-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/alexandra_arzhanukhina) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexadanchuk@gmail.com)
 
